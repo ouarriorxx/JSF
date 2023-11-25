@@ -70,11 +70,11 @@ Ajout, suppression et modification des employés.
 
 
 
-Association des employés à des services.
-Affichage détaillé :
-Affichage des informations détaillées sur les employés.
-Structure du Projet
-Expliquez brièvement la structure des répertoires du projet.
+# Association des employés à des services.
+
+![lk](https://github.com/ouarriorxx/JSF/assets/143946046/6a728bf5-bb8c-4adb-bd6f-7c8699dbc017)
+
+
 
 sql
 Copy code
