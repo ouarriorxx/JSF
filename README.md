@@ -75,16 +75,16 @@ Accédez à l'application à l'adresse http://localhost:8080/NomDuProjet/.
 Gestion des Services :
 Ajout, suppression et modification des services.
 
-# AJOUT 
+# ✅AJOUT 
 
 ![ajouterservice](https://github.com/ouarriorxx/JSF/assets/143946046/088d3286-443e-41fe-8570-3b569c5907a9)
 
-# SUPPRESSION
+# ❌SUPPRESSION
 
 ![supprimerservice1](https://github.com/ouarriorxx/JSF/assets/143946046/05372a20-50a3-4efa-8ce7-d3669d226830)
 ![supprimerservice2](https://github.com/ouarriorxx/JSF/assets/143946046/9143cf3c-b89e-469d-aa3c-ea6644cfba67)
 
-# MODIFICATION
+# 🔧MODIFICATION
 
 ![modifierservice](https://github.com/ouarriorxx/JSF/assets/143946046/48e30604-50ae-4508-a9e3-8a85eebddd07)
 
@@ -92,21 +92,21 @@ Ajout, suppression et modification des services.
 Gestion des Employés :
 Ajout, suppression et modification des employés.
 
-# AJOUT
+# ✅AJOUT
 
 ![ajouteremployee](https://github.com/ouarriorxx/JSF/assets/143946046/5b845e9f-e406-4e3e-b075-33e9fd529b6a)
 
-# SUPPRESSION
+# ❌SUPPRESSION
 
 ![supprimeremployee](https://github.com/ouarriorxx/JSF/assets/143946046/167001ea-0a27-4133-b962-60eceb67f2a2)
 
-# MODIFICATION
+# 🔧MODIFICATION
 
 ![modifieremployee](https://github.com/ouarriorxx/JSF/assets/143946046/9d678294-3bc1-4dbd-9bf2-b732c554a41d)
 
 
 
-# Association des employés à des services.
+# 🔍Association des employés à des services.
 
 ![lk](https://github.com/ouarriorxx/JSF/assets/143946046/6a728bf5-bb8c-4adb-bd6f-7c8699dbc017)
 
